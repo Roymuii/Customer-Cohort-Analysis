@@ -57,7 +57,12 @@ Later, we will take all customer segments for each month. Set the value to [0] a
 <img width="469" alt="image" src="https://github.com/Roymuii/Customer-Cohort-Analysis/assets/124777938/e3bd09e4-dcd7-4a79-a7bd-bca21e43bf20">
 
 # Result
+  -   47.95% of customers who made their first purchase in 2019-01-01 after 11 months had a 35.95% increase in the retention rate compared to the previous month. that some events may occur, such as a new marketing plan adjustment
+  -   If you look at the new Customers Column on 2018-12-01, there will be 1026 new customers, but the next month, new customers will decrease to only 486. It may be possible that during December 2018, there is an important festival or Some promotions keep customers coming back to buy more.
+    
 <img width="628" alt="image" src="https://github.com/Roymuii/Customer-Cohort-Analysis/assets/124777938/3480f861-cf1f-45b7-a008-e97140ac3e54">
+
+
 
 
 
